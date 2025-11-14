@@ -786,7 +786,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">flipkart<span>Shop</span></a>
+            <a href="#" class="logo">nexus<span>Shop</span></a>
             
             <nav id="mainNav">
                 <ul>
