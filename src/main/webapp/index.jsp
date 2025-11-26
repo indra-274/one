@@ -29,7 +29,7 @@
             line-height: 1.6;
         }
 
-        , h2, h3, h4 {
+       h1 , h2, h3, h4 {
             font-family: 'Poppins', sans-serif;
             font-weight: 600;
         }
